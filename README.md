@@ -10,7 +10,7 @@
 📫 How to reach me: denisantonov58863@gmail.com
 
 
-[![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13)](https://github.com/ahtung13/github-readme-stats)
+[![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=tokyonight)](https://github.com/ahtung13/github-readme-stats)
 <!--
 **ahtung13/ahtung13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
