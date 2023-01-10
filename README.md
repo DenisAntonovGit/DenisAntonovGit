@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a beginner QA automation engineer🇺</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=MonteCarlo&pause=1000&color=9E0AD7&background=FF000000&center=true&vCenter=true&multiline=true&width=435&lines=I'm+a+beginner;+QA+automation+engineer" alt="Typing SVG" /></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+QA+automation+engineer)](https://git.io/typing-svg)
 
 🌱 I’m currently learning test automation on qa.guru
