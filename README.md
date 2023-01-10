@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denis</a> 
+<h1 align="center">Hi there, I'm <a href="https://google.com/" target="_blank">Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=MonteCarlo&size=30&pause=1000&color=9E0AD7&background=FF000000&multiline=true&width=435&lines=I'm+a+beginner+QA+automation+engineer" alt="Typing SVG" /></a>
 
