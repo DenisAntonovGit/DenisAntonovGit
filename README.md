@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+beginner+QA+automation+engineer)](https://git.io/typing-svg)
 
 🌱 I’m currently learning test automation on qa.guru
+
 📫 How to reach me: denisantonov58863@gmail.com
 
 <!--
