@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a beginner QA automation engineer🇺</h3>
 
-
+<p alighn="centre">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+beginner+QA+automation+engineer)](https://git.io/typing-svg)
-
+</p>
 🌱 I’m currently learning test automation on qa.guru
 
 📫 How to reach me: denisantonov58863@gmail.com
