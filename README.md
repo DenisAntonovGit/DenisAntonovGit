@@ -11,7 +11,7 @@
 
 ![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=tokyonight)
 
-![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=radical)
+![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=tokyonight)
 
 
 
