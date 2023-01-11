@@ -12,6 +12,7 @@
 <img align="right" width="500" src="https://i.gifer.com/2GU.gif" />
 
 
+
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,py,git,bash&theme=light)
