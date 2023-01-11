@@ -6,7 +6,7 @@
 
 📫 How to reach me: denisantonov58863@gmail.com
 
-<img align="right" width="300" src="https://tenor.com/bhOSD.gif" />
+<img align="right" width="100" src="https://tenor.com/bhOSD.gif" />
 
 https://tenor.com/bhOSD.gif
 
