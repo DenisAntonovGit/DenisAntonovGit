@@ -11,6 +11,8 @@
 
 <img align="right" width="500" src="https://tenor.com/bhOSD.gif" />
 
+<div class="tenor-gif-embed" data-postid="16601149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149">Kitten Cat GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,py,git,bash&theme=light)
