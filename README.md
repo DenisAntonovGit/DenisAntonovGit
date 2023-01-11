@@ -12,6 +12,7 @@
 
 
 
+
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,py,git,bash&theme=light)
