@@ -9,7 +9,7 @@
 
 ## Github Stats
 
-![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=cobalt)
+![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=synthwave)
 
 
 
