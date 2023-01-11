@@ -9,7 +9,7 @@
 
 [![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=tokyonight)](https://github.com/ahtung13/github-readme-stats)
 
-<img align="right" width="391" src="https://i.gifer.com/2GU.mp4" />
+<img align="right" width="391" src="https://i.gifer.com/2GU.gif" />
 
 ## 🔧 Technologies
 
