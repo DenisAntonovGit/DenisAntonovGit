@@ -6,9 +6,7 @@
 
 📫 How to reach me: denisantonov58863@gmail.com
 
-<img align="right" width="100" src="https://tenor.com/bhOSD.gif" />
 
-https://tenor.com/bhOSD.gif
 
 ## Github Stats
 [![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=tokyonight)](https://github.com/ahtung13/github-readme-stats)
