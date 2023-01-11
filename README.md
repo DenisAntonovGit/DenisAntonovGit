@@ -9,7 +9,7 @@
 
 [![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=tokyonight)](https://github.com/ahtung13/github-readme-stats)
 
-<iframe src="https://gifer.com/embed/2GU" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+
 
 
 ## 🔧 Technologies
