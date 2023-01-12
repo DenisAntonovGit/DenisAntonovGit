@@ -8,7 +8,7 @@
 
 ## Github Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahtung13)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahtung13&theme=synthwave)](https://git.io/streak-stats)
 
 ## Github Stats
 
