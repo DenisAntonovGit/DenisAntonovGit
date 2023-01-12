@@ -6,6 +6,9 @@
 
 📫 How to reach me: denisantonov58863@gmail.com
 
+## Github Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahtung13)](https://git.io/streak-stats)
 
 ## Github Stats
 
