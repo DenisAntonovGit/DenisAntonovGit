@@ -21,7 +21,7 @@
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,py,git,bash&theme=light)
+![skills](https://skillicons.dev/icons?i=github,html,css,py,git,bash,java,gradle,selenium,docker,jenkins&theme=light)
 
 
 <!--
