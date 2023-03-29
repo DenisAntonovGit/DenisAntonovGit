@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&color=2a7c27&background=FF000000&width=435&lines=I'm+a+QA+automation+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 
+## About me
+Since March 2023, I have been a mentor at the QA.GURU test automation course.</br>
+
 🌱 I’m currently learning test automation on qa.guru
 
 📫 How to reach me: denisantonov58863@gmail.com
