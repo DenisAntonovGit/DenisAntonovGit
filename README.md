@@ -25,11 +25,11 @@ The project includes testing of the WebUI and the site API click.ru
 
 ## Github Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahtung13&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenisAntonovGit&theme=synthwave)](https://git.io/streak-stats)
 
 ## Github Stats
 
-![Ahtung13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtung13&show_icons=true&theme=synthwave)
+![DenisAntonovGit GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisAntonovGit&show_icons=true&theme=synthwave)
 
 
 
