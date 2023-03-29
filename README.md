@@ -11,10 +11,10 @@ In March 2023, I graduated from the QA.GURU school course on testing automation 
 Performed during training at the School of Testing Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>
 The project includes testing of the WebUI and the site API click.ru
 
-## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
+## Project Description
+:link: Test project: <a target="_blank" href="(https://github.com/DenisAntonovGit/Tests_for_ClickRu)">Tests_for_ClickRu
+</a></br></br>
+:heavy_check_mark: Implemented UI autotests to check the elements of the main page of the site click.ru and API tests to check the functionality provided to the registered user..</br></br>
 
 
 
