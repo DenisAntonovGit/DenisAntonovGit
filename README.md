@@ -27,9 +27,6 @@ The project includes testing of the WebUI and the site API click.ru
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DenisAntonovGit&theme=synthwave&ring=2A7C27&sideNums=2A7C27&currStreakLabel=2A7C27&dates=2A7C27)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenisAntonovGit&theme=synthwave)](https://git.io/streak-stats)
-
-
 ## Github Stats
 
 ![DenisAntonovGit GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisAntonovGit&show_icons=true&text_color=2a7c27&theme=synthwave)
