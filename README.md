@@ -32,7 +32,7 @@ The project includes testing of the WebUI and the site API click.ru
 
 ## Github Stats
 
-![DenisAntonovGit GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisAntonovGit&show_icons=true&text_color=2a7c27&theme=synthwave)
+![DenisAntonovGit GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisAntonovGit&show_icons=true&text_color=2a7c27&icon_color=2a7c27&theme=synthwave)
 
 
 
