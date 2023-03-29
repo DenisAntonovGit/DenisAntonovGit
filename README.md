@@ -10,7 +10,7 @@ In March 2023, I graduated from the QA.GURU school course on testing automation 
 
 ## :scroll:  Graduation project
 
-Performed during training at the School of QA Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.
+Performed during training at the School of QA Automation Engineers <a target="_blank" href="https://qa.guru">QA.GURU</a>.
 The project includes testing of the WebUI and the site API click.ru
 
 ## :clipboard: Project Description
