@@ -6,6 +6,8 @@ Since 2023, I have been a mentor at the QA.GURU test automation course.</br>
 
 In March 2023, I graduated from the QA.GURU school course on testing automation in Java.
 
+📫 How to reach me: denisantonov58863@gmail.com
+
 ## Graduation project
 
 Performed during training at the School of Testing Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>
@@ -17,8 +19,9 @@ The project includes testing of the WebUI and the site API click.ru
 :heavy_check_mark: Implemented UI autotests to check the elements of the main page of the site click.ru and API tests to check the functionality provided to the registered user..</br></br>
 
 
+## 🔧 Technologies
 
-📫 How to reach me: denisantonov58863@gmail.com
+![skills](https://skillicons.dev/icons?i=github,html,css,py,git,bash,java,gradle,selenium,docker,jenkins&theme=dark)
 
 ## Github Streak
 
@@ -33,9 +36,6 @@ The project includes testing of the WebUI and the site API click.ru
 
 
 
-## 🔧 Technologies
-
-![skills](https://skillicons.dev/icons?i=github,html,css,py,git,bash,java,gradle,selenium,docker,jenkins&theme=dark)
 
 
 <!--
