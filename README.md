@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/ahtung13/ahtung13" target="_blank">Denis</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/ahtung13/ahtung13" target="_blank">Denis</a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&color=2a7c27&background=FF000000&width=435&lines=I'm+a+QA+automation+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 ## About me
