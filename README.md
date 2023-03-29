@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ahtung13/ahtung13" target="_blank">Denis</a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&color=2a7c27&background=FF000000&width=435&lines=I'm+a+QA+automation+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 
-## About me
+:dna: ## About me
 Since 2023, I have been a mentor at the QA.GURU test automation course.</br>
 
 In March 2023, I graduated from the QA.GURU school course on testing automation in Java.
 
 📫 How to reach me: denisantonov58863@gmail.com
 
-## Graduation project
+:scroll: ## Graduation project
 
 Performed during training at the School of QA Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.
 The project includes testing of the WebUI and the site API click.ru
 
-## Project Description
+:clipboard: ## Project Description
 :link: Test project: <a target="_blank" href="https://github.com/DenisAntonovGit/Tests_for_ClickRu">Tests_for_ClickRu
 </a></br></br>
 :heavy_check_mark: Implemented UI autotests to check the elements of the main page of the site click.ru and API tests to check the functionality provided to the registered user.</br></br>
