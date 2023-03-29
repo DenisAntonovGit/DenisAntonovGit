@@ -16,7 +16,7 @@ The project includes testing of the WebUI and the site API click.ru
 ## Project Description
 :link: Test project: <a target="_blank" href="https://github.com/DenisAntonovGit/Tests_for_ClickRu">Tests_for_ClickRu
 </a></br></br>
-:heavy_check_mark: Implemented UI autotests to check the elements of the main page of the site click.ru and API tests to check the functionality provided to the registered user..</br></br>
+:heavy_check_mark: Implemented UI autotests to check the elements of the main page of the site click.ru and API tests to check the functionality provided to the registered user.</br></br>
 
 
 ## 🔧 Technologies
