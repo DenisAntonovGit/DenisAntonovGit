@@ -6,6 +6,8 @@ Since 2023, I have been a mentor at the QA.GURU test automation course.</br>
 
 In March 2023, I graduated from the QA.GURU school course on testing automation in Java.
 
+In the period 2014-2021 I worked in the banking sector. Having started working as a consultant on banking products, I worked my way up to a senior customer service manager.
+
 📫 How to reach me: denisantonov58863@gmail.com
 
 ## :scroll:  Graduation project
